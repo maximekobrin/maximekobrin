@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, it's Maxime Kobrin
 
 # 💫 About Me:
 I'm in third year of Engineering Studies in Computer Science<br>French guy 
