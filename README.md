@@ -1,7 +1,7 @@
 ## Hey, it's Maxime Kobrin
 
 # 💫 About Me:
-I'm in fourth year of Engineering Studies in Computer Science<br>French guy 
+I'm in my fourth year of Engineering Studies in Computer Science<br>French guy 
 
 
 ## 🌐 Socials:
